@@ -3,4 +3,4 @@
 Editando desde github en la nube.
 
 
-  Cambio realizado en Github en la nube (rama master)
+Cambio realizado en Github en la nube (rama master)
